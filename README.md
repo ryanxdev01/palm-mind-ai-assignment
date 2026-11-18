@@ -75,7 +75,7 @@ palm_mind_assignment/
 
 ```bash
 git clone https://github.com/ryanxdev01/palm-mind-ai-assignment.git
-cd palm-mind-assignment
+cd palm-mind-ai-assignment
 ```
 
 ### 2. Create a virtual environment
